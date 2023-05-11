@@ -1,0 +1,20 @@
+{
+  "name": "rarimo-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@rarimo/nft-checkout": "^1.5.0-rc.8",
+    "@rarimo/provider": "^1.5.0-rc.8",
+    "next": "10.0.5",
+    "react": "17.0.1",
+    "react-dom": "17.0.1"
+  },
+  "author": "",
+  "license": "ISC"
+}
